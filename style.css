@@ -1,0 +1,41 @@
+body {
+    background-image: url("img/gym.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+.cuerpo
+{
+    border-radius: 50px;
+    background-color: rgba(0, 0, 0, 0.788);
+    color:rgb(206, 195, 196);
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+a:any-link
+{
+    color:rgb(206, 195, 196);
+}
+.lista
+{
+    color:rgb(206, 195, 196);
+}
+.cuerpo2
+{
+    border-radius: 50px;
+    background-color: rgba(0, 0, 0, 0.788);
+    color:rgb(206, 195, 196);
+    padding: 20px;
+    text-align:justify;
+    font-family: Arial, sans-serif;
+}
+h2{
+    color:white;
+}
